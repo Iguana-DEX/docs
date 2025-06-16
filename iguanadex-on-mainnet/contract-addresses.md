@@ -10,8 +10,13 @@
 
 ### **Routing**
 
-<table><thead><tr><th width="279">Contract</th><th>Address</th></tr></thead><tbody><tr><td>MixedRouteQuoterV1</td><td>0x9AEb34Cb2b038b1F1df0E9079f3d223eEdc073E6</td></tr><tr><td>TokenValidator</td><td>0xB211806Db24B51C632DeF661d89DeF5a6BAF7A58</td></tr><tr><td>SmartRouter</td><td>0xbfe9C246A5EdB4F021C8910155EC93e7CfDaB7a0</td></tr></tbody></table>
+<table><thead><tr><th width="279">Contract</th><th>Address</th></tr></thead><tbody><tr><td>MixedRouteQuoterV1</td><td>0x9AEb34Cb2b038b1F1df0E9079f3d223eEdc073E6</td></tr><tr><td>TokenValidator</td><td>0xB211806Db24B51C632DeF661d89DeF5a6BAF7A58</td></tr><tr><td>SmartRouter</td><td>0xbfe9C246A5EdB4F021C8910155EC93e7CfDaB7a0<br>0xe394b05d9476280621398733783d0edb7cfebdc0</td></tr></tbody></table>
 
 ### V2 Contracts
 
 <table><thead><tr><th width="278">Contract</th><th>Address</th></tr></thead><tbody><tr><td>PancakeFactory</td><td>0x3eebf549D2d8839E387B63796327eE2C8f64A0C4</td></tr><tr><td>PancakeRouter</td><td>0xC00c41492e243ec24Bf0B3038b74d7Bd48411e63</td></tr></tbody></table>
+
+### Stable Swap
+
+<table><thead><tr><th width="280.68359375">Contract</th><th>Address</th></tr></thead><tbody><tr><td>pancakeStableSwapLPFactory</td><td>0xDce38A4E721b4F1096f7542260603d5B0A3756A1</td></tr><tr><td>pancakeStableSwapTwoPoolDeployer</td><td>0x236e3B58b174440322efaaBDb6d9b4b449D029Cb</td></tr><tr><td>pancakeStableSwapThreePoolDeployer</td><td>0x57Ef302d4f20d47227DDe08Ac56A18541bB01560</td></tr><tr><td>pancakeStableSwapTwoPoolInfo</td><td>0x2Cf3967DA565E7C83676d326bE1f316CE7077507</td></tr><tr><td>pancakeStableSwapFactory</td><td>0x8676553F78fE2bC2321d4e87E7B825Bb092ED7c8</td></tr></tbody></table>
+
